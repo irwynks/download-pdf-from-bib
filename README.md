@@ -4,7 +4,7 @@ Please note that the script doesn't currently support login and should be run on
 
 ### Instructions
 1. Clone the git repository
-2. Install npm files with `npm i`
+2. Install npm packages with `npm i`
 3. Copy `.bib` file into directory and rename to `download.bib`
 4. Run `node main`
 
